@@ -1,0 +1,13 @@
+F:\测试\entityframeworkpractice\efpractice\efpractice\bin\Debug\efpractice.exe.config
+F:\测试\entityframeworkpractice\efpractice\efpractice\bin\Debug\efpractice.exe
+F:\测试\entityframeworkpractice\efpractice\efpractice\bin\Debug\efpractice.pdb
+F:\测试\entityframeworkpractice\efpractice\efpractice\bin\Debug\EntityFramework.dll
+F:\测试\entityframeworkpractice\efpractice\efpractice\bin\Debug\EntityFramework.SqlServer.dll
+F:\测试\entityframeworkpractice\efpractice\efpractice\bin\Debug\EntityFramework.xml
+F:\测试\entityframeworkpractice\efpractice\efpractice\bin\Debug\EntityFramework.SqlServer.xml
+F:\测试\entityframeworkpractice\efpractice\efpractice\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\测试\entityframeworkpractice\efpractice\efpractice\obj\Debug\efpractice.csproj.CoreCompileInputs.cache
+F:\测试\entityframeworkpractice\efpractice\efpractice\obj\Debug\efpractice.csproj.CopyComplete
+F:\测试\entityframeworkpractice\efpractice\efpractice\obj\Debug\efpractice.exe
+F:\测试\entityframeworkpractice\efpractice\efpractice\obj\Debug\efpractice.pdb
+F:\测试\entityframeworkpractice\efpractice\efpractice\obj\Debug\efpractice.csprojAssemblyReference.cache
